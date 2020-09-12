@@ -1,0 +1,6 @@
+C:\Personal\Maersk Coding Test\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.dll
+C:\Personal\Maersk Coding Test\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.pdb
+C:\Personal\Maersk Coding Test\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csprojAssemblyReference.cache
+C:\Personal\Maersk Coding Test\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csproj.CoreCompileInputs.cache
+C:\Personal\Maersk Coding Test\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.dll
+C:\Personal\Maersk Coding Test\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb

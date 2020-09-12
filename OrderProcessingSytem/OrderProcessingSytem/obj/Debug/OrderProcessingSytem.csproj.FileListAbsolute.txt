@@ -1,0 +1,6 @@
+C:\Personal\Maersk Coding Test\OrderProcessingSytem\OrderProcessingSytem\bin\Debug\OrderProcessingSytem.dll
+C:\Personal\Maersk Coding Test\OrderProcessingSytem\OrderProcessingSytem\bin\Debug\OrderProcessingSytem.pdb
+C:\Personal\Maersk Coding Test\OrderProcessingSytem\OrderProcessingSytem\obj\Debug\OrderProcessingSytem.csprojAssemblyReference.cache
+C:\Personal\Maersk Coding Test\OrderProcessingSytem\OrderProcessingSytem\obj\Debug\OrderProcessingSytem.csproj.CoreCompileInputs.cache
+C:\Personal\Maersk Coding Test\OrderProcessingSytem\OrderProcessingSytem\obj\Debug\OrderProcessingSytem.dll
+C:\Personal\Maersk Coding Test\OrderProcessingSytem\OrderProcessingSytem\obj\Debug\OrderProcessingSytem.pdb
