@@ -39,7 +39,7 @@ namespace PromotionEngine
             return orderValue;
         }
 
-        public int selectPromotionType()
+        public int selectPromotionType(Promotion objProm)
         {
             // considered only one promotion is applied at a time on full orders.
             // can also be applied for all promotions at a time, tweaking the if..else and calculation logic
@@ -48,7 +48,7 @@ namespace PromotionEngine
             {
                 if(_cartListModified['A'] >= 3)
                 {
-                    Promotion objProm = new ThreeAPromotion(_cartListModified);
+                    objProm = new ThreeAPromotion(_cartListModified);
                     _totalOrderValue = objProm.calculateOrderValue();
                 }
             }
@@ -56,7 +56,7 @@ namespace PromotionEngine
             {
                 if (_cartListModified['B'] >= 2)
                 {
-                    Promotion objProm = new TwoBPromotion(_cartListModified);
+                    objProm = new TwoBPromotion(_cartListModified);
                     _totalOrderValue = objProm.calculateOrderValue();
                 }
             }
@@ -64,7 +64,7 @@ namespace PromotionEngine
             {
                 if (_cartListModified['C'] > 0 && _cartListModified['D'] > 0)
                 {
-                    Promotion objProm = new CPlusD(_cartListModified);
+                    objProm = new CPlusD(_cartListModified);
                     _totalOrderValue = objProm.calculateOrderValue();
                 }
             }
